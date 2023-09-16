@@ -1,0 +1,18 @@
+---
+object: set
+id: bc3c3b61-352b-4dc4-8383-415b9ad1845b
+code: prav
+name: 'Ravnica: City of Guilds Promos'
+uri: https://api.scryfall.com/sets/bc3c3b61-352b-4dc4-8383-415b9ad1845b
+scryfall_uri: https://scryfall.com/sets/prav
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aprav&unique=prints
+released_at: '2005-10-07'
+set_type: promo
+card_count: 2
+parent_set_code: rav
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: rav
+block: Ravnica
+icon_svg_uri: https://svgs.scryfall.io/sets/rav.svg?1694404800
